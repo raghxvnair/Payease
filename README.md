@@ -11,4 +11,4 @@ Payease is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3
 - Receive Payment
 - Request Payment
 - Credit Card Features (Add, Delete, Fund, Withdraw from Credit Card)
-- Payment Transaction History
+- Payment Transaction History.
