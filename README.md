@@ -1,6 +1,6 @@
 # Payease is a modern Banking App with Django
 
-Payease is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3, GitHub Actions, and Heroku.
+Payease is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3, GitHub Actions..
 
 ## Features:
 - Basic User Authentication
