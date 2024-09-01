@@ -1,6 +1,6 @@
 # Payease is a modern Banking App with Django
 
-SaroPay is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3, GitHub Actions, and Heroku.
+Payease is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3, GitHub Actions, and Heroku.
 
 ## Features:
 - Basic User Authentication
